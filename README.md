@@ -1,10 +1,11 @@
 # BlockMesh Network Autoreferral Bot
 Automatic referral script for BlockMesh Network Account using proxies.
 ### Tools and components required
-1. BlockMesh Network Account | Register: [https://app.blockmesh.xyz/register](https://app.blockmesh.xyz/register?invite_code=officialblockmesh)
-2. Proxies Static Residental | [FREE 10 PREMIUM PROXIES](https://www.webshare.io/?referral_code=p7k7whpdu2jg) | [Free 100 Premium Proxies](https://proxyscrape.com/?ref=odk1mmj) | Good Premium Proxies (paid): [922proxy](https://www.922proxy.com/register?inviter_code=d03d4fed), [proxy-cheap](https://app.proxy-cheap.com/r/JysUiH), [infatica](https://dashboard.infatica.io/aff.php?aff=544)
-3. VPS or RDP (OPTIONAL)
-4. Python3 Latest Version
+1. BlockMesh Network Account | Register: [https://app.blockmesh.xyz/register](https://app.blockmesh.xyz/register?invite_code=433
+2. )
+3. Proxies Static Residental | [FREE 10 PREMIUM PROXIES](https://www.webshare.io/?referral_code=p7k7whpdu2jg) | [Free 100 Premium Proxies](https://proxyscrape.com/?ref=odk1mmj) | Good Premium Proxies (paid): [922proxy](https://www.922proxy.com/register?inviter_code=d03d4fed), [proxy-cheap](https://app.proxy-cheap.com/r/JysUiH), [infatica](https://dashboard.infatica.io/aff.php?aff=544)
+4. VPS or RDP (OPTIONAL)
+5. Python3 Latest Version
 # Installation
 - Install Python For Windows: [Python](https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe)
 - For Unix:
